@@ -54,9 +54,8 @@ Crear un Dockerfile en la raíz.
 Ajustar a una versión de JDK soportada por la imagen oficial de Maven (ej. 20).
 
 ## Tecnologías 🛠
-<!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/Java)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/SpringBoot)
+[![HTML](https://https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/Spring_Boot)
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
