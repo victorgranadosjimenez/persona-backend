@@ -55,7 +55,7 @@ Ajustar a una versión de JDK soportada por la imagen oficial de Maven (ej. 20).
 
 ## Tecnologías 🛠
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
-[![SPRINGBOOT](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/Spring_Boot)
+[![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://en.wikipedia.org/wiki/Spring_Boot)
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
